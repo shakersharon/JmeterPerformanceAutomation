@@ -1,0 +1,6 @@
+timeStamp,elapsed,label,responseCode,responseMessage,threadName,dataType,success,failureMessage,bytes,sentBytes,grpThreads,allThreads,URL,Latency,IdleTime,Connect
+1753093831466,1173,Login API,401,Unauthorized,Baseline Users 1-1,text,false,,1419,246,2,2,https://reqres.in/api/login,1167,0,501
+1753093832340,656,Login API,401,Unauthorized,Baseline Users 1-2,text,false,,1420,246,1,1,https://reqres.in/api/login,656,0,42
+1753093833338,548,Login API,401,Unauthorized,Baseline Users 1-3,text,false,,1419,246,1,1,https://reqres.in/api/login,547,0,38
+1753093834338,303,Login API,401,Unauthorized,Baseline Users 1-4,text,false,,1420,246,1,1,https://reqres.in/api/login,302,0,34
+1753093835337,295,Login API,401,Unauthorized,Baseline Users 1-5,text,false,,1426,246,1,1,https://reqres.in/api/login,294,0,31
