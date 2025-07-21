@@ -1,7 +1,7 @@
-# JMeter Python E-Commerce Performance Test
+# JMeter Python Performance Test
 
 ## Overview
-Performance testing project using JMeter and Python to simulate e-commerce user actions like login, browsing, and checkout.
+Performance testing project using JMeter and Python to simulate user actions like login, browsing, and checkout.
 
 ## Folder Structure
 ```
